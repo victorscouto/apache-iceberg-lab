@@ -13,6 +13,7 @@ The main goal of this repository is to deep-dive into modern data lake architect
 ├── src/              # Python/Scala source code and pipelines
 ├── data/             # Sample datasets and warehouse storage
 └── README.md         # Project documentation
+```
 
 
 ## 🛠️ Tech Stack & Roadmap
